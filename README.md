@@ -1,2 +1,2 @@
-# html5
+# HTML5
 Native HTML5 solutions
